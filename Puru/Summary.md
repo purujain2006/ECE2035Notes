@@ -18,7 +18,4 @@
 [[Branching + Jumping]]
 [[Program Counter Hardware Implementation]]
 [[Loops]]
-
-Hi
-
 [[REMEMBER]]
