@@ -17,3 +17,22 @@ int main() {
 - execute `a.out`
 - `objdump` returns assembly from machine code
 
+
+```C
+//stored as 32-bit 0000 0000 0000 1111
+int x = 15;
+int x = 0xF;
+```
+
+---
+
+>[!warning]
+
+`>>`, `<<` SHIFTING
+
+- unsigned = logical
+- signed = arithmetic
+
+- default int, etc. are **signed.**
+
+---

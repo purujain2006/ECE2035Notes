@@ -3,9 +3,13 @@
 	- `0xFF` = 1 byte/8bits
 	- `0xF` = 4 bits
 	- `0xFFF` = 12 bits.
-	- 
+
+
+~={green} NOTE: `F` is the only hex value that has the MSB of `1`  (NEGATIVE INDICATOR)=~
 
 ~={yellow}IF HEX VALUE UTILIZES ANY NON-ZERO BIT > 3. HINT TO USE LUI.=~
+- `0x1BBB` ~={red}LUI=~
+- `0x0BBB`
 
 **Since we know sign depends on the ~={yellow}FIRST bit. (MSB)**=~
 - Hex characters = 4 bits.
