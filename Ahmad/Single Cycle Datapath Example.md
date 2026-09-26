@@ -1,4 +1,4 @@
-![[Pasted image 20260827153928.png]]
+	![[Pasted image 20260827153928.png]]
 
 ---
 In single-clock cycle, two registers read, one written.
@@ -99,4 +99,6 @@ SUB x6,x5,x7
 ```
 
 [[RISC-V ISA]]
+
+REMINDER:
 
